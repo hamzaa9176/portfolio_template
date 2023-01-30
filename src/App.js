@@ -30,7 +30,7 @@ function App() {
             <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-2 py-2 ml-8 rounded-lg' href="#res">Resume</a></li>
           </ul>
         </nav>
-    <div className='lg:flex lg:flex-row lg:items-stretch xl:flex xl:justify-center xl:text-center'>
+    <div className='lg:flex lg:flex-row lg:items-stretch xl:bg-teal-500 xl:flex xl:justify-center xl:text-center'>
       <div className='text-center p-10 '>
         <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Hamza Ali</h2>
         <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Learner</h3>
